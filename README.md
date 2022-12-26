@@ -1,12 +1,14 @@
 # Frontend Mentor - QR code component solution
 
+Link to solution: 
+[https://genix-qrcode-solution.netlify.app/]
+
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -15,7 +17,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -49,12 +50,12 @@ In my future projects, i want to apply more of the CSS grid and Flexbox to make 
 
 ### Useful resources
 
-- [Resource 1](https://www.youtube.com/watch?v=rg7Fvvl3taU) - This helped me for knowing how to use CSS Grid to structure my layout. I really loved this layout property and will use it going forward.
-- [Resource 2](https://www.youtube.com/watch?v=u044iM9xsWU) - This is an amazing video by Kevin Powell which helped me finally understand Flexbox Concept and how to apply it to layouts. I'd recommend it to anyone still finding it hard to properly layout contents on their webpage.
+- [Learn CSS grid the easy way](https://www.youtube.com/watch?v=rg7Fvvl3taU) - This helped me for knowing how to use CSS Grid to structure my layout. I really loved this layout property and will use it going forward.
+- [Learn flexbox the easy way](https://www.youtube.com/watch?v=u044iM9xsWU) - This is an amazing video by Kevin Powell which helped me finally understand Flexbox Concept and how to apply it to layouts. I'd recommend it to anyone still finding it hard to properly layout contents on their webpage.
 
 
 ## Author
-- Frontend Mentor - [@](https://www.frontendmentor.io/profile/JAILBREAK-101)
+- Frontend Mentor - [@JailBreak](https://www.frontendmentor.io/profile/JAILBREAK-101)
 - Twitter - [@Oluwagbemiga](https://www.twitter.com/@GenixTech1)
 
 ## Acknowledgments
